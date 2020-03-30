@@ -3,21 +3,24 @@
 </h4>
 
 <p align="center">
-  <a href="#nanda-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
-## :nanda: Tecnologias
+## : -tecnologia
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-🚀 Tecnologias
+## 💻 Projeto
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js no back-end](https://nodejs.org/en/)
 - [ReactJs no Front-end](https://reactjs.org)
 - [React Native no Mobile](https://facebook.github.io/react-native/)
+
+
 ## : -projeto
 
 ## 💻 Projeto
