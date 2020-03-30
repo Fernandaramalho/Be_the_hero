@@ -4,18 +4,15 @@
 </h4>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#nanda-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
-## :rocket: Tecnologias
+## :nanda: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- Node.js no back-end.
-- ReactJs no Front-end.
-- React Native no Mobile
 
 - [Node.js no back-end](https://nodejs.org/en/)
 - [ReactJs no Front-end](https://reactjs.org)
