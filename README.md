@@ -4,13 +4,12 @@
 </h4>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
-
-## 💻 Tecnologia
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
