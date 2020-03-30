@@ -25,6 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Be The Hero é um projeto que visa que pessoas possa contribuir ajudando com os casos de cada ONGS.
 
 
----
 
-Feito com ♥ na semana OmniStack 11.0 da Rocketseat 
+
+
+------
+
+                                             Feito com ♥ na semana OmniStack 11.0 da Rocketseat 
