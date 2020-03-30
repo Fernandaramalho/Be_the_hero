@@ -1,18 +1,14 @@
-<h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
-</h1>
-
 <h4 align="center">
   🚀 Semana OmniStack 11.0
 </h4>
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#nanda-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
-## : Tecnologias
+## :nanda: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
