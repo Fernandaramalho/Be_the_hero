@@ -4,13 +4,13 @@
 </h4>
 
 <p align="center">
-  <a href="#nanda-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <br>
 
-## :nanda: Tecnologias
+## 💻 Tecnologia
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
